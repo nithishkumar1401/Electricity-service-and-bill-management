@@ -30,8 +30,8 @@ from email.mime.multipart import MIMEMultipart
 
 # ===================== CONFIG =====================
 
-SENDER_EMAIL = "snithishkumar1401@gmail.com"
-SENDER_APP_PASSWORD = "xwni awtj kozl sqaa"
+SENDER_EMAIL = "your mail@gmail.com"
+SENDER_APP_PASSWORD = "your password"
 
 DATA_FOLDER = "data"
 UPLOAD_FOLDER = "uploads"
